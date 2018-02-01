@@ -6,14 +6,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git rm file1.txt`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git commit -m "remove file1.txt"`
 
-* Create a new repository 
+* Create a new repository <br\>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git init`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git add .`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git commit -m "Message"`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git remote add origin <LINK.git>`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git push -u origin master`<br/>
 
-* Push an update 
+* Push an update <br\>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git add .`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git commit -m "Message"`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git push`<br/>
