@@ -3,8 +3,8 @@
 * [Github Cheatsheet](https://github.com/MaraimElbadri/Useful-Commands.git)
 * Remove a file from git repo from [stackoverflow](https://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo)
 
-`git rm file1.txt <br/>
-git commit -m "remove file1.txt"`
+`git rm file1.txt`<br/>
+`git commit -m "remove file1.txt"`
 
 
 First Header | Second Header
